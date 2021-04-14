@@ -1,0 +1,32 @@
+header {
+  background-color: lightyellow;
+  text-align: center;
+}
+
+hr {
+  border-color: brown;
+}
+
+h2 {
+  color:orange;
+}
+
+h3{
+  color:lightgreen;
+}
+
+main {
+  padding: 10px;
+}
+
+main {
+  background-image: url(https://th.bing.com/th/id/R0c611205d5e6882397029b8bf532fd99?rik=URBvEvyvVeA6pA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f2%2f3%2ff%2f390592.jpg&ehk=%2bWA9KcLAysiRj3PvPU400XdjrWTDDEMW4rxr2GOQI80%3d&risl=&pid=ImgRaw);
+  background-size: contain;
+}
+
+p {
+  color: white;
+}
+#logo{
+  width: 200px;
+}

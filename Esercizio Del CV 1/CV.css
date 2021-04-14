@@ -1,0 +1,24 @@
+div > h2 {
+  color: orange;
+}
+header{
+  background-color: lightyellow;
+}
+body {
+  color: black;
+}
+
+body {
+  margin: 0px;
+}
+
+header {
+  margin: 5px;
+}
+
+div {
+  margin: 10px;
+}
+center > img {
+  width: 110px
+}
